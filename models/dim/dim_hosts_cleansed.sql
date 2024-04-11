@@ -7,4 +7,4 @@ SELECT
     ,IS_SUPERHOST
     ,CREATED_AT
     ,UPDATED_AT
-FROM src_hosts #asd
+FROM src_hosts
